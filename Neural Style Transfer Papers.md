@@ -66,6 +66,10 @@
 
 <img src="res/14.jpg" width = "600" height = "230" align=center />  
 
+### 5. [A Closed-Form Solution to Universal Style Transfer](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lu_A_Closed-Form_Solution_to_Universal_Style_Transfer_ICCV_2019_paper.pdf)
+>gaussian
+>theory about AdaIN WCT
+
 ## Content Style Relating Techniques
 
 ### 1. [StyleBank: An Explicit Representation for Neural Image Style Transfer](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_StyleBank_An_Explicit_CVPR_2017_paper.pdf)
@@ -105,6 +109,12 @@
 
 <img src="res/19.jpg" width = "300" height = "200" align=center />
 
+### 7. [Content and Style Disentanglement for Artistic Style Transfer](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kotovenko_Content_and_Style_Disentanglement_for_Artistic_Style_Transfer_ICCV_2019_paper.pdf)
+
+>the idea of disentanglement
+>novel loss function
+
+github:https://compvis.github.io/content-style-disentangled-ST/
 
 ## Not yet classified
 
@@ -118,5 +128,15 @@
 
 <img src="res/17.jpg" width = "800" height = "155" align=center /> 
 
-### Arbitrary Style Transfer with Deep Feature Reshuffle
+### 3. Arbitrary Style Transfer with Deep Feature Reshuffle
 
+### 4. A Flexible Convolutional Solver for Fast Style Transfers
+>no back prop
+>flexible control on each layer
+
+### 5. Diversified Arbitrary Style Transfer via Deep Feature Perturbation
+>diversify
+
+### 6. Collaborative Distillation for Ultra-Resolution Universal Style Transfer
+>distillation
+>reduce cost 
